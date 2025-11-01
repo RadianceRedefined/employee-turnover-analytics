@@ -82,10 +82,10 @@ Satisfied High Performers: Still left — likely seeking growth or new challenge
 
 Clone or download the repo:
 
-git clone https://github.com/yourusername/employee-turnover-analytics.git
+git clone https://github.com/RadianceRedefined/employee-turnover-analytics.git
 
 
-Open Employee_Turnover_Analytics_Apurva.ipynb in Google Colab
+Open Employee_Turnover_Analytics.ipynb in Google Colab
  or Jupyter.
 
 Upload the dataset HR_comma_sep.csv.

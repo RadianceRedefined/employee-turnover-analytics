@@ -1,7 +1,7 @@
 # employee-turnover-analytics
 📘 Employee Turnover Analytics
 
-Author: Apurva Billuri
+Author: Radiance Redefined
 Role: ML Developer (HR Analytics Assignment)
 Tools Used: Python, Pandas, Scikit-learn, Seaborn, Matplotlib, SMOTE, KMeans, Random Forest
 
